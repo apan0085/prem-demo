@@ -14,8 +14,8 @@ This is a collaborative Quarto project.
 
 <!-- Student sections will go here -->
 
-<<<<<<< HEAD
+
 Changes made by B
-=======
+
 Change by me, I am person A the owner and create of this repository and Thanos of git 
->>>>>>> upstream/main
+
