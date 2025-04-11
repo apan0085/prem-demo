@@ -6,10 +6,12 @@ editor: visual
 
 ## 
 
-\# Introduction
+# Introduction
 
 This is a collaborative Quarto project.
 
 # Contributions
 
 <!-- Student sections will go here -->
+
+Change by me, I am person A the owner and create of this repository and Thanos of git 
