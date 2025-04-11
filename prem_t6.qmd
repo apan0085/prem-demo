@@ -13,3 +13,5 @@ This is a collaborative Quarto project.
 # Contributions
 
 <!-- Student sections will go here -->
+
+Changes made by B
